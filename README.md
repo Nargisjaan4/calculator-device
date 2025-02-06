@@ -1,3 +1,4 @@
 # calculator-device
 this is my first repository
-author Nargisjaan
+<br>
+author- Nargisjaan
